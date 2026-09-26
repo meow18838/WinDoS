@@ -6,4 +6,4 @@ The vulnerability allows making the system completely unresponsive within second
 This case was closed by the MSRC so you can now explore this and learn from it.
 
 ## Disclaimer:
-This Reposeritory contains Code that could be used for malicious purposes, the code is provided for educational purposes only to learn how to protect against such attacks and to find further bugs that can be reported to the corresponding vendor.
+This Repository contains Code that could be used for malicious purposes, the code is provided for educational purposes only to learn how to protect against such attacks and to find further bugs that can be reported to the corresponding vendor.
